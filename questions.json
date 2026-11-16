@@ -1,0 +1,160 @@
+{
+  "heading": "G6_Metric System - I",
+  "topics": [
+    {
+      "heading": "Metric System - I",
+      "questions": [
+
+  {
+    "questionNo": 1,
+    "question": ["Which is a better estimate for the length of a standard family car?"],
+    "options": ["4 centimetres", "400 metres", "4 millimetres", "4 metres"],
+    "answer": 3
+  },
+  {
+    "questionNo": 2,
+    "question": ["Which is a better estimate for the length of a brand new toothbrush?"],
+    "options": ["19 kilometres", "19 metres", "19 centimetres", "19 millimetres"],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": ["Which is a better estimate for the volume of a single dose of liquid paracetamol for a young child?"],
+    "options": ["5 litres", "500 litres", "5000 millilitres", "5 millilitres"],
+    "answer": 3
+  },
+  {
+    "questionNo": 4,
+    "question": ["Which is a better estimate for the volume of water needed to completely fill a standard garden watering can?"],
+    "options": ["9 litres", "9 millilitres", "900 litres", "90 millilitres"],
+    "answer": 0
+  },
+  {
+    "questionNo": 5,
+    "question": ["Which is a better estimate for the mass of a standard modern smartphone?"],
+    "options": ["180 kilograms", "18 grams", "180 grams", "18 kilograms"],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": ["Which is a better estimate for the mass of a standard kitchen microwave oven?"],
+    "options": ["15 grams", "15 kilograms", "150 grams", "150 kilograms"],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": ["60 millimetres is exactly equal to ______ centimetres."],
+    "input": [""],
+    "answer": ["6"]
+  },
+  {
+    "questionNo": 8,
+    "question": ["150 millimetres is exactly equal to ______ centimetres."],
+    "input": [""],
+    "answer": ["15"]
+  },
+  {
+    "questionNo": 9,
+    "question": ["______ kilometres = 7000 metres."],
+    "input": [""],
+    "answer": ["7"]
+  },
+  {
+    "questionNo": 10,
+    "question": ["______ kilometres = 4000 metres."],
+    "input": [""],
+    "answer": ["4"]
+  },
+  {
+    "questionNo": 11,
+    "question": ["______ kilograms = 2000 grams."],
+    "input": [""],
+    "answer": ["2"]
+  },
+  {
+    "questionNo": 12,
+    "question": ["______ kilograms = 6000 grams."],
+    "input": [""],
+    "answer": ["6"]
+  },
+  {
+    "questionNo": 13,
+    "question": ["Which is more, 2999 grams or 3 kilograms?"],
+    "options": ["2999 grams", "3 kilograms", "neither; they are equal", "It cannot be determined without a scale"],
+    "answer": 1
+  },
+  {
+    "questionNo": 14,
+    "question": ["Which is more, 6020 grams or 6 kilograms?"],
+    "options": ["6020 grams", "6 kilograms", "neither; they are equal", "They are impossible to compare"],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": ["______ litres = 5 kilolitres."],
+    "input": [""],
+    "answer": ["5000"]
+  },
+  {
+    "questionNo": 16,
+    "question": ["______ litres = 2 kilolitres."],
+    "input": [""],
+    "answer": ["2000"]
+  },
+  {
+    "questionNo": 17,
+    "question": ["Which is more, 4500 millilitres or 4 litres?"],
+    "options": ["4500 millilitres", "4 litres", "neither; they are equal", "You cannot compare millilitres to litres"],
+    "answer": 0
+  },
+  {
+    "questionNo": 18,
+    "question": ["Which is more, 300 millilitres or 3 litres?"],
+    "options": ["300 millilitres", "3 litres", "neither; they are equal", "They are both measuring mass, not volume"],
+    "answer": 1
+  },
+  {
+    "questionNo": 19,
+    "question": ["What is exactly equal to 8.5 metres when converted into centimetres?"],
+    "options": ["85 centimetres", "850 centimetres", "0.85 centimetres", "8500 centimetres"],
+    "answer": 1
+  },
+  {
+    "questionNo": 20,
+    "question": ["What is exactly equal to 3.8 metres when converted into centimetres?"],
+    "options": ["38 centimetres", "3800 centimetres", "380 centimetres", "0.38 centimetres"],
+    "answer": 2
+  },
+  {
+    "questionNo": 21,
+    "question": ["Convert the following decimal metric unit of mass: 1.25 kilograms is equal to exactly how many grams?"],
+    "options": ["12.5 grams", "125 grams", "1250 grams", "12500 grams"],
+    "answer": 2
+  },
+  {
+    "questionNo": 22,
+    "question": ["Convert the following decimal metric unit of mass: 4.6 kilograms is equal to exactly how many grams?"],
+    "options": ["46 grams", "460 grams", "4600 grams", "46000 grams"],
+    "answer": 2
+  },
+  {
+    "questionNo": 23,
+    "question": ["2500 millilitres is exactly equal to how many litres?"],
+    "options": ["25 litres", "2.5 litres", "0.25 litres", "250 litres"],
+    "answer": 1
+  },
+  {
+    "questionNo": 24,
+    "question": ["4750 millilitres is exactly equal to how many litres?"],
+    "options": ["475 litres", "47.5 litres", "4.75 litres", "0.475 litres"],
+    "answer": 2
+  }
+
+
+
+
+
+      ]
+    }
+  ]
+}
